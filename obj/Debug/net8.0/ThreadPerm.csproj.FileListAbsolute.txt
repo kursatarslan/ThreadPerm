@@ -1,0 +1,14 @@
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/bin/Debug/net8.0/ThreadPerm
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/bin/Debug/net8.0/ThreadPerm.deps.json
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/bin/Debug/net8.0/ThreadPerm.runtimeconfig.json
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/bin/Debug/net8.0/ThreadPerm.dll
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/bin/Debug/net8.0/ThreadPerm.pdb
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/ThreadPerm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/ThreadPerm.AssemblyInfoInputs.cache
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/ThreadPerm.AssemblyInfo.cs
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/ThreadPerm.csproj.CoreCompileInputs.cache
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/ThreadPerm.dll
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/refint/ThreadPerm.dll
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/ThreadPerm.pdb
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/ThreadPerm.genruntimeconfig.cache
+/Users/kursat.arslan/Documents/Projects/dotnet/ThreadPerm/obj/Debug/net8.0/ref/ThreadPerm.dll
